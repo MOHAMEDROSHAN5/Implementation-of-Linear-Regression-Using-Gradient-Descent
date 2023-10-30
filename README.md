@@ -92,13 +92,23 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
+### DATA
 ![op](Screenshot%202023-09-26%20131828.png)
+### PROFIT PREDICTION
 ![op](Screenshot%202023-09-26%20131854.png)
+### DATA SHAPE
 ![op](Screenshot%202023-09-26%20131950.png)
+### COMPUTE COST
+32.072733877455676
+### H(x) VALUE
 ![op](Screenshot%202023-09-26%20132017.png)
+### COST FUNCTION USING GRADIENT DESCENT GRAPH
 ![op](Screenshot%202023-09-26%20132034.png)
+### PROFIT PREDICTION
 ![op](Screenshot%202023-09-26%20132053.png)
+### PROFIT FOR THE POPULATION OF 35000
 ![op](Screenshot%202023-09-26%20132111.png)
+### PROFIT FOR THE POPULATION OF 70000
 ![op](Screenshot%202023-09-26%20132123.png)
 
 ## Result:
